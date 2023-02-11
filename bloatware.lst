@@ -71,6 +71,7 @@ com.android.providers.calendar
 com.android.quicksearchbox
 com.android.simappdialog
 com.android.stk
+com.google.android.calendar
 com.android.traceur
 com.android.wallpaper.livepicker
 com.bsp.catchlog
