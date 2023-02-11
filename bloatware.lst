@@ -16,6 +16,7 @@ com.xiaomi.mirror
 com.xiaomi.payment
 com.xiaomi.powerchecker
 com.xiaomi.simactivate.service
+com.miui.videoplayer
 com.xiaomi.xmsf
 com.xiaomi.xmsfkeeper
 com.milink.service
@@ -37,6 +38,7 @@ com.miui.miservice
 com.miui.mishare.connectivity
 com.miui.misound
 com.miui.nextpay
+com.android.providers.downloads.ui
 com.miui.personalassistant
 com.miui.phrase
 com.miui.smsextra
